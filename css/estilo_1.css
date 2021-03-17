@@ -1,0 +1,62 @@
+body{
+    font-size: 10px;
+}
+h1 {
+    font-size: 4rem;
+    background-image: url("../img/fondo_1.jpg");
+    border-style: solid;
+    border-width: medium;
+    border-color: #FD00C3;
+    border-radius: 25px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding: 50px 25px 50px 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+p {
+    font-size: 25px;
+    line-height: 50px;
+    border-style: dotted;
+}
+p.uno {
+    border-style: solid;
+    border-width: medium;
+    border-color: #FD00C3;
+    border-radius: 25px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding: 50px 25px 50px 25px;
+    background-color: #00FDD5;
+    font-size: 25px;
+    color: #FD00C3;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+p.dos {
+    border-style: solid;
+    border-width: medium;
+    border-color: #FD00C3;
+    border-radius: 25px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding: 50px 25px 50px 25px;
+    background-color: #B5FD00;
+    font-size: 50px;
+    color: #FD00C3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-style: italic;
+    letter-spacing: 1px;
+}
